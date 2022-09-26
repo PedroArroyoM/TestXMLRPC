@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="odoo-java-api">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../odoo-java-api" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../odoo-java-api/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../odoo-java-api/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
